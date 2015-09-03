@@ -1,0 +1,13 @@
+package task1;
+
+public class result {
+	
+	protected void answer(int a)
+	
+	{
+		
+		System.out.println(a);
+		
+	}
+
+}
