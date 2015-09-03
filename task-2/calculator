@@ -1,0 +1,36 @@
+package task1;
+
+public class calculator extends result{
+	
+	public void add(int a, int b)
+	{
+		
+		 answer(a+b);
+		
+		
+	}
+	
+	public void sub(int a, int b){
+		
+		
+		answer(a-b);
+	}
+	
+	public void mul(int a, int b)
+	{
+	   
+		answer(a*b);
+
+	}
+	
+	public void div(int a, int b){
+	
+	answer(a/b);
+	
+	
+	}
+	
+}
+
+
+
